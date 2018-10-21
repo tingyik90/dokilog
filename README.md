@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/tingyik90/DokiLog.svg)](https://jitpack.io/#tingyik90/DokiLog)
+[![](https://jitpack.io/v/tingyik90/dokilog.svg)](https://jitpack.io/#tingyik90/dokilog)
 
 # DokiLog
 Pleasant Android + Kotlin logging by DokiDevs. Inspired by `Timber` + `AnkoLogger`.
