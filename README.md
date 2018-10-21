@@ -128,7 +128,7 @@ class ReleaseLogProfile: LogProfile("Release") {  // Give it a unique profile na
 ```
 
 ## KDoc
-For further information, see https://tingyik90.github.io/DokiLog/dokilog/.
+For further information, see https://tingyik90.github.io/dokilog/dokilog/.
 See `app/demo` section for more.
 
 ## Download
