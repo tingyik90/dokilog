@@ -144,7 +144,7 @@ allprojects {
 In the app Gradle:
 ```Gradle
 dependencies {
-    implementation 'com.github.tingyik90:DokiLog:version'
+    implementation 'com.github.tingyik90:dokilog:version'
 }
 ```
 
