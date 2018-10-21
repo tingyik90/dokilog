@@ -4,7 +4,7 @@ import android.os.Build
 import android.util.Log
 import com.dokidevs.dokilog.LogProfile
 
-class ReleaseLogProfile: LogProfile("Release") {
+class ReleaseLogProfile : LogProfile("Release") {
 
     init {
         // Give it a new filter tag

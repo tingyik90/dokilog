@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.dokidevs.dokilog.DokiLog
 import com.dokidevs.dokilog.v
 
-open class BaseActivity: AppCompatActivity(), DokiLog {
+open class BaseActivity : AppCompatActivity(), DokiLog {
 
     // Even if this is set to false, DemoActivity will still call all log method, since it overrides to "true".
     // The control lies with the last class which overrides this value.

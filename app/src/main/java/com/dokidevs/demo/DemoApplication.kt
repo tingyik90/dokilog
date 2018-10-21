@@ -4,7 +4,7 @@ import android.app.Application
 import com.dokidevs.dokilog.DokiLog
 import com.dokidevs.dokilog.LogProfile
 
-class DemoApplication: Application() {
+class DemoApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()

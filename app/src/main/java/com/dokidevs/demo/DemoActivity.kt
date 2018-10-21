@@ -1,10 +1,11 @@
 package com.dokidevs.demo
 
 import android.os.Bundle
-import com.dokidevs.dokilog.*
-import java.lang.IndexOutOfBoundsException
+import com.dokidevs.dokilog.d
+import com.dokidevs.dokilog.w
+import com.dokidevs.dokilog.wtf
 
-class DemoActivity : BaseActivity(), DokiLog {
+class DemoActivity : BaseActivity() {
 
     // Set this to false and all log related to DemoActivity (including those called in BaseActivity) will not be shown anymore.
     override val enableClassLog: Boolean
